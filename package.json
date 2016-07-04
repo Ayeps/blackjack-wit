@@ -1,0 +1,24 @@
+{
+  "name": "blackjack-wit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayeps/blackjack-wit.git"
+  },
+  "author": "Daniel Ayepah-Mensah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayeps/blackjack-wit/issues"
+  },
+  "homepage": "https://github.com/Ayeps/blackjack-wit#readme",
+  "dependencies": {
+    "botkit": "^0.2.2",
+    "witbot": "^2.1.0"
+  }
+}
